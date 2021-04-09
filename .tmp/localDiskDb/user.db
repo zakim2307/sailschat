@@ -1,0 +1,5 @@
+{"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"name":"Bruce Wayne","email":"IamBatman@DCEU.com","avatar":"images/the-batman.webp","location":"Gotham","bio":"Billionaire at day vigilante at night","createdAt":1617967284124,"updatedAt":1617967284124,"id":76,"_id":76}
+{"name":"Harley Quinn","email":"IamHarley@DCEU.com","avatar":"https://randomuser.me/api/portraits/women/94.jpg","location":"Gotham","bio":"Crazy at day supercrazy at night","createdAt":1617967284124,"updatedAt":1617967284124,"id":77,"_id":77}
+{"name":"Raphael Varane","email":"raphsmadrid@gmail.com","avatar":"https://randomuser.me/api/portraits/men/32.jpg","location":"Gotham","bio":"citylights","createdAt":1617967284124,"updatedAt":1617967284124,"id":78,"_id":78}
