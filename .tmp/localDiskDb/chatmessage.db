@@ -1,1 +1,2 @@
 {"$$indexCreated":{"fieldName":"id","unique":true,"sparse":false}}
+{"message":"Hey Everyone! Welcome to the community!","createdBy":{"createdAt":1617971216972,"updatedAt":1617971216972,"id":89,"name":"Harley Quinn","email":"IamHarley@DCEU.com","avatar":"https://randomuser.me/api/portraits/women/94.jpg","location":"Gotham","bio":"Crazy at day supercrazy at night"},"createdAt":1617971217016,"updatedAt":1617971217016,"id":4,"_id":4}

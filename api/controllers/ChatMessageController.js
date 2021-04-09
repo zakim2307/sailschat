@@ -6,17 +6,6 @@
  */
 
 module.exports = {
-  attributes: {
-    message: {
-        type: 'string',
-        required: true
-    },
-
-    createdBy : {
-        model: 'user',
-        required: true
-    }
-}
-
+  
 };
 

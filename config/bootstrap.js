@@ -11,7 +11,7 @@
 
 const ChatMessageController = require("../api/controllers/ChatMessageController");
 
-module.exports.bootstrap = async function() {
+module.exports.bootstrap = async function(cb) {
 
   // By convention, this is a good place to set up fake data during development.
   //
@@ -33,7 +33,7 @@ module.exports.bootstrap = async function() {
   try {
     let messageCount = ChatMessage.count();
     if(messageCount > 0) {
-      return:
+      return;
     }
 
     let users = await User.find();

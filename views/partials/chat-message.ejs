@@ -38,6 +38,7 @@
     }
     
     function renderChatMessages(data) {
+        console.log(data)
       const chatContent = $('#chat-content');
       const template = $.templates('#chatTemplate');
       let htmlOutput = template.render(data);

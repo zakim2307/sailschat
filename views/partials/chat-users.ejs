@@ -30,7 +30,7 @@ function loadUsers() {
 }
 
 function renderChatUsers(data) {
-  console.log(data)
+  
   const template = $.templates('#usersTemplate');
   let htmlOutput = template.render(data);
   $('#users-content').html(htmlOutput);
